@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/callon/Downloads/BLE/Bluetooth4_3/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/callon/Downloads/BLE/Bluetooth4_3/res/menu/gatt_services.xml"
+    }
+]

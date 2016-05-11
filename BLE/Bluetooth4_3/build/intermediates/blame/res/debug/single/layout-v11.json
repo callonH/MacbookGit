@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_simple_decor.xml"
+    }
+]

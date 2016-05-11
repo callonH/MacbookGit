@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:2:1-42:12
+	xmlns:tools
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:4:5-39
+	android:versionName
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml
+		INJECTED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml
+		INJECTED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [BLE.Android-ProgressBarWidthNumber-master:library_zhy_progressbar:unspecified] /Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/exploded-aar/BLE.Android-ProgressBarWidthNumber-master/library_zhy_progressbar/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:10:9-38
+	android:minSdkVersion
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:9:9-35
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:13:22-71
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:14:5-89
+	android:required
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:14:64-87
+	android:name
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:14:19-63
+application
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:16:5-40:10
+MERGED from [BLE.Android-ProgressBarWidthNumber-master:library_zhy_progressbar:unspecified] /Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/exploded-aar/BLE.Android-ProgressBarWidthNumber-master/library_zhy_progressbar/unspecified/AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:21:9-56
+		REJECTED from [BLE.Android-ProgressBarWidthNumber-master:library_zhy_progressbar:unspecified] /Users/callon/Downloads/BLE/Bluetooth4_3/build/intermediates/exploded-aar/BLE.Android-ProgressBarWidthNumber-master/library_zhy_progressbar/unspecified/AndroidManifest.xml:15:9-40
+	tools:replace
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:17:9-38
+activity#com.example.bluetooth.le.DeviceScanActivity
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:22:9-29:20
+	android:label
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:23:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:27:27-74
+activity#com.example.bluetooth.le.DeviceControlActivity
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:31:10-59
+	android:name
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:31:20-57
+activity#com.example.bluetooth.le.CharsWriteReadActivity
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:34:10-60
+	android:name
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:34:20-58
+activity#com.example.bluetooth.le.ProcessActivity
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:36:10-53
+	android:name
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:36:20-51
+service#com.example.bluetooth.le.BluetoothLeService
+ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:37:9-77
+	android:enabled
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:37:53-75
+	android:name
+		ADDED from /Users/callon/Downloads/BLE/Bluetooth4_3/AndroidManifest.xml:37:18-52
